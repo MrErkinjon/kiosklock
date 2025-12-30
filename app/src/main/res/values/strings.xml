@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">KioskLock</string>
+    <string name="kiosk_mode_active">Kiosk Mode Active</string>
+    <string name="admin_password_hint">Admin Password</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="invalid_password">Invalid password</string>
+    <string name="kiosk_enabled">Kiosk mode enabled</string>
+    <string name="kiosk_disabled">Kiosk mode disabled</string>
+    <string name="device_admin_description">KioskLock requires device administrator privileges to function properly in kiosk mode.</string>
+    <string name="permission_overlay_title">Display over other apps</string>
+    <string name="permission_overlay_message">KioskLock needs permission to display over other apps to maintain kiosk mode.</string>
+    <string name="permission_admin_title">Device Administrator</string>
+    <string name="permission_admin_message">Grant device administrator permission to enable kiosk mode functionality.</string>
+    <string name="settings_title">Kiosk Settings</string>
+    <string name="general_settings">General Settings</string>
+    <string name="security_settings">Security</string>
+    <string name="app_management">App Management</string>
+    <string name="allowed_apps">Allowed Apps</string>
+    <string name="auto_start">Auto Start on Boot</string>
+    <string name="admin_password">Admin Password</string>
+    <string name="change_password">Change Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="passwords_mismatch">Passwords do not match</string>
+    <string name="password_updated">Password updated successfully</string>
+    <string name="select_apps">Select Apps</string>
+    <string name="app_selection_updated">App selection updated</string>
+    <string name="system_app">System</string>
+    <string name="user_app">User</string>
+    <string name="total_apps">Total Apps</string>
+    <string name="exit_kiosk">Exit Kiosk Mode</string>
+    <string name="kiosk_service_notification_title">KioskLock Active</string>
+    <string name="kiosk_service_notification_text">Kiosk mode is running</string>
+    <string name="device_rooted_warning">Warning: Device appears to be rooted. This may affect kiosk security.</string>
+    <string name="network_status">Network Status</string>
+    <string name="connected">Connected</string>
+    <string name="disconnected">Disconnected</string>
+    <string name="wifi">WiFi</string>
+    <string name="mobile">Mobile Data</string>
+    <string name="ethernet">Ethernet</string>
+</resources>
